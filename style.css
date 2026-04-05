@@ -173,7 +173,6 @@ img { max-width: 100%; display: block; }
   position: fixed;
   top: 0; left: 0; right: 0;
   z-index: 1000;
-  height: 6%;
   background: rgba(251,247,244,.95);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
